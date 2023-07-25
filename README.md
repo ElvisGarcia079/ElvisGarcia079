@@ -1,4 +1,4 @@
-<img src="Elvis.gif" width="100%" height="30px"/>
+<img src="Elvis.gif" width="100%" height="100px"/>
 
 - 👋 Hi, I’m @ElvisGarcia079
 - 👀 I’m interested in Blockchain ⛓ , Full Stack 💻 , Machine Learning/AI 🧠 , and Robotics 🤖 !
