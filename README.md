@@ -1,3 +1,5 @@
+<img src="Elvis.gif" width="100%"/>
+
 - 👋 Hi, I’m @ElvisGarcia079
 - 👀 I’m interested in Blockchain ⛓ , Full Stack 💻 , Machine Learning/AI 🧠 , and Robotics 🤖 !
 - 🌱 I’m currently learning Full Stack Development with ☕️ Java ☕️ ...
